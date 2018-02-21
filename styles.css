@@ -1,0 +1,30 @@
+#card {
+	padding: 10px;
+	border: 1px solid grey;
+	box-shadow: 10px 10px 5px 0px rgba(199,199,199,1);
+	width: 300px;
+	}
+
+#text-section {
+	padding: 10px;
+	border: 1px solid grey;
+	width: 300px;
+	box-sizing: border-box;
+}
+#interesting-fact {
+	font-style: italic;
+}
+
+#text-section ul{
+	list-style-type: none;
+	padding-left: 0;
+}
+
+img {
+	border: 1px solid grey;
+	margin-bottom: 10px;
+}
+
+span {
+	font-weight: bold;
+}
